@@ -319,7 +319,7 @@ body {
     padding-bottom:1px;
   }
   section.about p a:hover {
-    border-bottom:1px solid #009ca8;
+    border-bottom:1px solid #409cf8;
   }
   section.about img {
     display:block;
@@ -826,7 +826,7 @@ body {
     font-family:'Sacramento',cursive;
     text-transform:none;
     font-weight:400;
-    color:#41b0bf !important;
+    color:#409cf8 !important;
     font-size: 3em !important;
   }
   #resumebutton {
